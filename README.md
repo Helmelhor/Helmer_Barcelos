@@ -1,12 +1,13 @@
 # **📊 Helmer Barcelos**  
+**"Transformo dados em decisões inteligentes."** 🚀  
 
 **Desenvolvedor | Analista de Dados | Business Intelligence**  
 
 Trabalho com **dados, automação e desenvolvimento de soluções estratégicas**. Minha experiência abrange **Análise de Dados, BI, Dashboards e Desenvolvimento em Python e Java**, sempre buscando extrair insights valiosos para tomada de decisões.  
----
-## **🛠️ Tecnologias & Ferramentas**  
 
-Aqui estão as principais tecnologias que utilizo no meu dia a dia:  
+---
+
+## **🛠️ Tecnologias & Ferramentas**  
 
 ### **📊 Análise de Dados & BI**  
 | ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) | ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black) | ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white) |  
@@ -24,6 +25,7 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia:
 | **Python** (Pandas, Streamlit) | **Java** |  
 
 ---
+
 ## **🚀 Projetos em Destaque**  
 
 🔹 **[Gerenciador financeiro com Python](https://github.com/Helmelhor/melhoria-financeiro)**  
@@ -31,16 +33,17 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia:
 - Integração com IA (Gemini) para ajudar nas análises  
 
 ---
-## **📈 Objetivos Profissionais**  
 
-✅ **Aprofundar conhecimentos** em **Data Science e Machine Learning**  
-✅ **Automatizar processos**  
-✅ **Criar dashboards estratégicos** para auxiliar na tomada de decisão  
+## **📫 Contato**  
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hfelixmsouza@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helmer-barcelos-a46734289/)
 
 ---
-## **📫 Como Me Encontrar**  
 
-📧 **E-mail:** [hfelixmsouza@gmail.com](mailto:hfelixmsouza@gmail.com)  
-🔗 **LinkedIn:** [Helmer Barcelos](https://www.linkedin.com/in/helmer-barcelos-a46734289/)  
+## **📈 Objetivos**  
+✅ **Aprofundar conhecimentos** em Data Science & ML  
+✅ **Automatizar processos** com Python/Java  
+✅ **Desenvolver dashboards** estratégicos  
 
-**"Transformo dados em decisões inteligentes."** 🚀  
+*Disponível para colaborações!* ✨  
