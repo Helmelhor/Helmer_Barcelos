@@ -1,5 +1,8 @@
 # **📊 Helmer Barcelos**  
-**"Transformo dados em decisões inteligentes."** 🚀  
+
+<div align="left" style="margin: 20px 0;">
+  <h3> <em>Transformo seus dados em decisões inteligentes.</em> </h3>
+</div>
 
 **Desenvolvedor | Analista de Dados | Business Intelligence**  
 
@@ -43,7 +46,5 @@ Trabalho com **dados, automação e desenvolvimento de soluções estratégicas*
 
 ## **📈 Objetivos**  
 ✅ **Aprofundar conhecimentos** em Data Science & ML  
-✅ **Automatizar processos** com Python/Java  
-✅ **Desenvolver dashboards** estratégicos  
-
-*Disponível para colaborações!* ✨  
+✅ **Automatizar processos**  
+✅ **Desenvolver visualizações** para decisões estratégicas   
