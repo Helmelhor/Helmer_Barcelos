@@ -25,7 +25,7 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia:
 ### **💻 Linguagens de Programação**  
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |  
 |--|--|  
-| **Python** (Pandas, Streamlit) | **Java** (Spring, Hibernate) |  
+| **Python** (Pandas, Streamlit) | **Java** |  
 
 ---
 
