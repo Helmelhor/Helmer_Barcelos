@@ -2,12 +2,8 @@
 
 **Desenvolvedor | Analista de Dados | Business Intelligence**  
 
-Bem-vindo! 👋  
-
 Trabalho com **dados, automação e desenvolvimento de soluções estratégicas**. Minha experiência abrange **Análise de Dados, BI, Dashboards e Desenvolvimento em Python e Java**, sempre buscando extrair insights valiosos para tomada de decisões.  
-
 ---
-
 ## **🛠️ Tecnologias & Ferramentas**  
 
 Aqui estão as principais tecnologias que utilizo no meu dia a dia:  
@@ -28,7 +24,6 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia:
 | **Python** (Pandas, Streamlit) | **Java** |  
 
 ---
-
 ## **🚀 Projetos em Destaque**  
 
 🔹 **[Gerenciador financeiro com Python](https://github.com/Helmelhor/melhoria-financeiro)**  
@@ -36,7 +31,6 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia:
 - Integração com IA (Gemini) para ajudar nas análises  
 
 ---
-
 ## **📈 Objetivos Profissionais**  
 
 ✅ **Aprofundar conhecimentos** em **Data Science e Machine Learning**  
@@ -44,16 +38,9 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia:
 ✅ **Criar dashboards estratégicos** para auxiliar na tomada de decisão  
 
 ---
-
 ## **📫 Como Me Encontrar**  
 
 📧 **E-mail:** [hfelixmsouza@gmail.com](mailto:hfelixmsouza@gmail.com)  
 🔗 **LinkedIn:** [Helmer Barcelos](https://www.linkedin.com/in/helmer-barcelos-a46734289/)  
-
----
-
-⭐ **Vamos colaborar?** Se precisar de um **analista de dados, desenvolvedor ou especialista em BI**, estou disponível para projetos desafiadores!  
-
---- 
 
 **"Transformo dados em decisões inteligentes."** 🚀  
