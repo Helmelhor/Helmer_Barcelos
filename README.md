@@ -6,8 +6,6 @@
 
 **Desenvolvedor | Analista de Dados | Business Intelligence**  
 
-Trabalho com **dados, automação e desenvolvimento de soluções estratégicas**. Minha experiência abrange **Análise de Dados, BI, Dashboards e Desenvolvimento em Python e Java**, sempre buscando extrair insights valiosos para tomada de decisões.  
-
 ---
 
 ## **🛠️ Tecnologias & Ferramentas**  
