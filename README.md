@@ -1,4 +1,4 @@
-# **📊 Perfil Profissional - [Seu Nome]**  
+# **📊 Helmer Barcelos**  
 
 **Desenvolvedor | Analista de Dados | Business Intelligence**  
 
@@ -53,8 +53,8 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia:
 
 ## **📫 Como Me Encontrar**  
 
-📧 **E-mail:** [seu-email@exemplo.com](mailto:hfelixmsouza@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/seu-perfil]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/helmer-barcelos-a46734289/))  
+📧 **E-mail:** [hfelixmsouza@gmail.com](mailto:hfelixmsouza@gmail.com)  
+🔗 **LinkedIn:** [www.linkedin.com/in/helmer-barcelos-a46734289/]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/helmer-barcelos-a46734289/))  
 
 ---
 
