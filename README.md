@@ -2,9 +2,9 @@
 
 **Desenvolvedor | Analista de Dados | Business Intelligence**  
 
-Bem-vindo ao meu perfil no GitHub! 👋  
+Bem-vindo! 👋  
 
-Sou apaixonado por **dados, automação e desenvolvimento de soluções estratégicas**. Minha experiência abrange **Análise de Dados, BI, Dashboards e Desenvolvimento em Python e Java**, sempre buscando extrair insights valiosos para tomada de decisões.  
+Trabalho com **dados, automação e desenvolvimento de soluções estratégicas**. Minha experiência abrange **Análise de Dados, BI, Dashboards e Desenvolvimento em Python e Java**, sempre buscando extrair insights valiosos para tomada de decisões.  
 
 ---
 
@@ -34,19 +34,12 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia:
 🔹 **[Dashboard de Vendas com Power BI](link_do_repositório)**  
 - Análise de desempenho de vendas por região.  
 - Integração com banco de dados SQL.  
-
-🔹 **[Automação de ETL com Pentaho](link_do_repositório)**  
-- Pipeline de dados para consolidação de informações.  
-
-🔹 **[Análise de Dados com Python + Streamlit](link_do_repositório)**  
-- Visualização interativa de dados financeiros.  
-
 ---
 
 ## **📈 Objetivos Profissionais**  
 
 ✅ **Aprofundar conhecimentos** em **Data Science e Machine Learning**.  
-✅ **Automatizar processos** com **ETL e Python**.  
+✅ **Automatizar processos**.  
 ✅ **Criar dashboards estratégicos** para auxiliar na tomada de decisão.  
 
 ---
@@ -54,7 +47,7 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia:
 ## **📫 Como Me Encontrar**  
 
 📧 **E-mail:** [hfelixmsouza@gmail.com](mailto:hfelixmsouza@gmail.com)  
-🔗 **LinkedIn:** [www.linkedin.com/in/helmer-barcelos-a46734289/]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/helmer-barcelos-a46734289/))  
+🔗 **LinkedIn:** [Linkedin]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/helmer-barcelos-a46734289/))  
 
 ---
 
