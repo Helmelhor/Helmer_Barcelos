@@ -31,9 +31,10 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia:
 
 ## **🚀 Projetos em Destaque**  
 
-🔹 **[Dashboard de Vendas com Power BI](link_do_repositório)**  
-- Análise de desempenho de vendas por região.  
-- Integração com banco de dados SQL.  
+🔹 **[Gerenciador financeiro com Python]([link_do_repositório](https://github.com/Helmelhor/melhoria-financeiro))**  
+- Contralor de finanças com dashboard.  
+- Integração com IA (Gemini) para ajudar nas análises.  
+
 ---
 
 ## **📈 Objetivos Profissionais**  
@@ -47,7 +48,7 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia:
 ## **📫 Como Me Encontrar**  
 
 📧 **E-mail:** [hfelixmsouza@gmail.com](mailto:hfelixmsouza@gmail.com)  
-🔗 **LinkedIn:** [Linkedin]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/helmer-barcelos-a46734289/))  
+🔗 **LinkedIn:** [Helmer Barcelos](https://www.linkedin.com/in/helmer-barcelos-a46734289/)  
 
 ---
 
