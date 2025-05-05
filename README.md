@@ -31,17 +31,17 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia:
 
 ## **🚀 Projetos em Destaque**  
 
-🔹 **[Gerenciador financeiro com Python]([link_do_repositório](https://github.com/Helmelhor/melhoria-financeiro))**  
-- Contralor de finanças com dashboard.  
-- Integração com IA (Gemini) para ajudar nas análises.  
+🔹 **[Gerenciador financeiro com Python](https://github.com/Helmelhor/melhoria-financeiro)**  
+- Controlador de finanças com dashboard  
+- Integração com IA (Gemini) para ajudar nas análises  
 
 ---
 
 ## **📈 Objetivos Profissionais**  
 
-✅ **Aprofundar conhecimentos** em **Data Science e Machine Learning**.  
-✅ **Automatizar processos**.  
-✅ **Criar dashboards estratégicos** para auxiliar na tomada de decisão.  
+✅ **Aprofundar conhecimentos** em **Data Science e Machine Learning**  
+✅ **Automatizar processos**  
+✅ **Criar dashboards estratégicos** para auxiliar na tomada de decisão  
 
 ---
 
@@ -57,5 +57,3 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia:
 --- 
 
 **"Transformo dados em decisões inteligentes."** 🚀  
-
----
